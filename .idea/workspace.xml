@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="474a97cd-55c3-4387-b759-a9bbcb54ca5a" name="Changes" comment="hello">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/arth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/swap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/built-in modules/Calculate Square Roo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/built-in modules/Compress Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/built-in modules/Count Lines in a File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/built-in modules/Current Date and Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/built-in modules/Generate a UUID.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/built-in modules/Random Number Generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditons/elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditons/even_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditons/greatest2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditons/greatest3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditons/if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditons/ifelse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditons/triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file handling/append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file handling/create and write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file handling/reading file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/create and write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/callparameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/callretrun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/even odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/functioncall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/functiondemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/multipaction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/mymodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/palinfrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/returntype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/squer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/break_continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/indiviual_digit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/num50to30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/num5to20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/read5num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/single_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops/while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/inhertance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/person.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/hello.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2fUxtvcT7aFbVTM5oudKmJ4Ao24" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.Calculate Square Roo.executor": "Run",
+    "Python.Compress Data.executor": "Run",
+    "Python.Count Lines in a File.executor": "Run",
+    "Python.Current Date and Time.executor": "Run",
+    "Python.Generate a UUID.executor": "Run",
+    "Python.List Files in Directory.executor": "Run",
+    "Python.Random Number Generator.executor": "Run",
+    "Python.add.executor": "Run",
+    "Python.append.executor": "Run",
+    "Python.area.executor": "Run",
+    "Python.arth.executor": "Run",
+    "Python.break_continue.executor": "Run",
+    "Python.callparameters.executor": "Run",
+    "Python.callretrun.executor": "Run",
+    "Python.comparison.executor": "Run",
+    "Python.create and write.executor": "Run",
+    "Python.datatype.executor": "Run",
+    "Python.datatypes.executor": "Run",
+    "Python.elif.executor": "Run",
+    "Python.else.executor": "Run",
+    "Python.even.executor": "Run",
+    "Python.even_odd.executor": "Run",
+    "Python.for.executor": "Run",
+    "Python.functioncall.executor": "Run",
+    "Python.functiondemo.executor": "Run",
+    "Python.greatest2.executor": "Run",
+    "Python.greatest3.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.if.executor": "Run",
+    "Python.ifelse.executor": "Run",
+    "Python.indiviual_digit.executor": "Run",
+    "Python.inhertance.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.math.executor": "Run",
+    "Python.multipaction.executor": "Run",
+    "Python.mymodule.executor": "Run",
+    "Python.num50to30.executor": "Run",
+    "Python.num5to20.executor": "Run",
+    "Python.person.executor": "Run",
+    "Python.read.executor": "Run",
+    "Python.read5num.executor": "Run",
+    "Python.reading file.executor": "Run",
+    "Python.single_range.executor": "Run",
+    "Python.squer.executor": "Run",
+    "Python.swap.executor": "Run",
+    "Python.while.executor": "Run",
+    "Python.while_loop.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/python/pythonProject",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python\pythonProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\python\pythonProject\oops" />
+      <recent name="F:\python\pythonProject\basics" />
+      <recent name="F:\python\pythonProject\basic" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="474a97cd-55c3-4387-b759-a9bbcb54ca5a" name="Changes" comment="" />
+      <created>1713869677695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713869677695</updated>
+    </task>
+    <task id="LOCAL-00001" summary="hello">
+      <option name="closed" value="true" />
+      <created>1713870795229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713870795229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello" />
+  </component>
+</project>

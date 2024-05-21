@@ -1,0 +1,127 @@
+In Python, variables are used to store data values. They act as placeholders for different types of data, such as numbers, strings, lists, or even more complex objects like functions or classes. Here's the syntax for defining variables and an example code snippet to illustrate their usage:
+
+### Syntax:
+```python
+variable_name = value
+```
+
+- `variable_name`: This is the name you give to your variable. It should follow Python's naming rules, which generally include starting with a letter or underscore, followed by letters, numbers, or underscores. Variable names are case-sensitive.
+- `=`: This is the assignment operator used to assign a value to the variable.
+- `value`: This is the actual data that the variable will hold. It can be a number, a string, a list, a boolean, etc.
+
+### Example Code:
+```python
+# Assigning values to variables
+name = "Alice"  # String variable
+age = 30        # Integer variable
+is_student = True  # Boolean variable
+height = 175.5  # Float variable
+
+# Printing the values of variables
+print("Name:", name)
+print("Age:", age)
+print("Is Student?", is_student)
+print("Height:", height)
+```
+
+In this example:
+- `name`, `age`, `is_student`, and `height` are variables.
+- `"Alice"`, `30`, `True`, and `175.5` are the values assigned to these variables.
+- `print()` statements are used to display the values of these variables.
+
+When you run this code, it will output:
+```
+Name: Alice
+Age: 30
+Is Student? True
+Height: 175.5
+```
+
+Variables are dynamic in Python, meaning you can change their values and types throughout your code. For instance, you could update `age` to a different value or change `is_student` from `True` to `False` later in your program.
+1.write p to print hello in 3 diferent ways
+2. wp to understand the data types
+3.write a program to interchange  a number in 4 different ways
+    temp, swap, add, mul
+4. wp to demostarte datatypes to know the data we use type method
+
+
+IF COnditions
+python supports 2 types of conditions statments
+    1.if conditions
+    2.loops
+
+IF CONditons:
+    if is a key word its used to check conditions for every conditions their will be 2 possiblitity
+    True or Fales if the condition is true it excute ture block if the condition is fales it
+    excute the else part
+
+    Syntax:
+    if(condition):
+        true block
+    else:
+        fales block
+
+5.write a program to read a number and check is it a even or odd
+6.wp to read 2 number and find greatest of 2 numbers
+7. wp to find greatest of 4 numbers
+8. wp to check leap year or not
+9. wp to display the following messases
+    if a number divides by 3 display nam e
+    if a number divides by 5 display address
+    if by both the display name and address
+
+
+LOOPS:
+    to reapete a same statments again and again loops are used in loops mainly 2 types
+    for loop and while loop
+
+    For Loop:
+        when we know the number of repatations we use for loop in for loop they are going to use for keyword
+        and rage method. rage method comes with 3 different formates.
+        range(val)
+        range(start,end)
+        rage(start,end,++or--)
+
+        Syntax:
+        for i in range():
+            true block
+
+        range with 1 parameter: when we pass single parameter to range method it consider the value as end value
+        loops start form 0 till the that value not the value
+10.write to demonstarte range with single parameters
+11. wp to display the number form  5 to  20
+12. wp to display the numbers form 50 to 30
+
+break: this keyword is used to trimate the program we can use it as break point or to stop the excution of progam
+    for a specific condition
+Contiune: it used to excute a skip the excution for specific value
+
+13.wp to read 5 number form the user
+    it the user enters 0 terminate the program
+14. wp to display the number 1 to 10 when values of i is equal to 3 skip the value
+
+while LOOp:
+    when dont know the number values we use while loop, in loop initialization ++ or -- in spearte liens
+15. wp to display the number 30 to 40 using while loop
+
+16. wp to demostrate break keyword and contiue in while loop
+else keyword: first time in loop else key word is intrudeced in loops right now we wre using in only if .in while loop
+if the condition fales
+
+17. wp to read and display the  indiviual digits of number
+18. wp to read a number and find the sum of indiviual digits
+19. wp to reverse a number
+
+functions
+
+by using fuctions we can reduse the code and we can increase the excution speed functions are defined by using def keyword
+in functions mainly to types user defined functions and built in functions
+1. user defied functions this fucntions are craeted by the user according their requirements following explamles
+creation of functions and its usage
+
+20. function demo
+
+function with paramters we can pass the parametrs to the functions functions will take variables in run time the
+data will be defined
+
+function with return type
